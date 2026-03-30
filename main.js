@@ -48,11 +48,6 @@ GM_addStyle(`
         },
         data: `username=${username}&password=${password}`,
         onload: function (response) {
-          console.log("登录完成，Cookie 已保存到浏览器");
-          // console.log(response.responseHeaders);
-          
-          console.log(response.responseText);
-          
           resolve(response);
         },
         onerror: reject
@@ -102,7 +97,7 @@ GM_addStyle(`
       }
     })
   }
-  
+
   function nyaaHandler(){
     document.querySelectorAll('a').forEach(a=>{
       if (a.href.startsWith("magnet:?")){
