@@ -16,7 +16,7 @@
 ## 适用网站
 
 - 蜜柑计划 (mikanime.tv & mikanani.me)
-- ACG.RIP (acgrip.art)w
+- ACG.RIP (acgrip.art)
 - nyaa (nyaa.si)
 - 动漫花园 (dmhy.org)
 - 萌番组 (bangumi.moe)
