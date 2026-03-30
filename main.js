@@ -34,7 +34,7 @@ GM_addStyle(`
 
 (function () {
   // 修改下面的qBit地址和qBit密钥
-  const qbit = "";
+  const qbit = "http://...";
   const username = "";
   const password = "";
 
